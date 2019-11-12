@@ -1,0 +1,6 @@
+a.out
+commandHandler.cpp
+header.h
+main.cpp
+makefile
+wc.txt
